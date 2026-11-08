@@ -1,0 +1,6 @@
+{
+  "name": "ZedEdu Manager",
+  "description": "Zambian Primary & Secondary School Management System with ODC & CBC Assessment, Automated Excel Workbook, Report Cards & Teacher Suite",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
